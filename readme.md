@@ -15,8 +15,7 @@ https://youtu.be/pXZRDKPmSBQ
 
 -------------------
 ## 개발
-언리얼 블루프린트(5.3v)
-언리얼, C++(visual studio)
+언리얼 블루프린트(5.3v), 언리얼 C++(visual studio)
 
 -------------------
 ## 기능
